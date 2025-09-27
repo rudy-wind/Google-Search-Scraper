@@ -50,7 +50,7 @@ All scraped links will automatically be saved to `hasil.txt`.
    node index.js
    ```
 
-   > Replace `script.js` with your actual file name.
+   > Replace `index.js` with your actual file name.
 
 3. Chrome will launch automatically, and scraping will begin.
 
