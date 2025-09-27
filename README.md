@@ -47,7 +47,7 @@ All scraped links will automatically be saved to `hasil.txt`.
 2. Run the script:
 
    ```bash
-   node script.js
+   node index.js
    ```
 
    > Replace `script.js` with your actual file name.
