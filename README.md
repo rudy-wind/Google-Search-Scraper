@@ -1,6 +1,6 @@
 # Google Search Scraper
 
-````markdown
+
 This script is used to **scrape links from Google search results** based on a list of keywords stored in `keywords.txt`.  
 All scraped links will automatically be saved to `hasil.txt`.
 
@@ -27,8 +27,6 @@ All scraped links will automatically be saved to `hasil.txt`.
 
    ```bash
    npm install puppeteer-extra puppeteer-extra-plugin-stealth puppeteer fs readline
-````
-
 > Note: `puppeteer` will download Chromium automatically, so make sure you have a stable internet connection.
 
 ---
